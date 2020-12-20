@@ -4,15 +4,13 @@
 
 **The server was deployed in Shanghai.**
 
-Technology used in the game-server (I'm in charge of this part and the Android part)：
+Technology used in the game-server：
 
 - Spring MVC
 - Mysql
 - Mybatis
 - Maven
 - Android
-
-Thanks to Miss Huang Qilan for the algorithm server part~
 
 The algorithm server needs to run serverUI.py to start.
 
