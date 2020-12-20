@@ -12,7 +12,7 @@ Technology used in the game-server：
 - Maven
 - Android
 
-The algorithm server needs to run serverUI.py to start.
+The algorithm server (CNN,torch) needs to run serverUI.py to start.
 
 The email, user name and password of the test account are all 000.
 
